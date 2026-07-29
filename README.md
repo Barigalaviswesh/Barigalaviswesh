@@ -1,161 +1,227 @@
 <h1 align="center">Hi 👋, I'm Barigala Viswesh</h1>
-<h3 align="center">Java Full Stack Developer | MERN Stack Developer | Python Developer</h3>
+<h3 align="center">Python Developer | Java Full Stack Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Barigalaviswesh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishu-viswesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:barigalaviswesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-💻 Passionate Software Developer with strong knowledge of Java Full Stack, MERN Stack, and Python.
+💻 Passionate **Python Developer** with experience in backend development, AI-powered applications, and data analytics.
 
 🎓 B.Tech Graduate in Computer Science & Engineering.
 
-🌱 Currently learning Spring Boot, FastAPI, Docker, AWS, and AI-powered applications.
+🌱 Currently learning **FastAPI, Django, Spring Boot, Docker, AWS, Machine Learning, and Cloud Technologies**.
 
-🚀 Passionate about building scalable, responsive, and user-friendly web applications.
+📊 Skilled in **Python, SQL, Pandas, NumPy, Matplotlib, Plotly, Power BI, PostgreSQL, and MySQL**.
 
-🎯 Open to Software Developer, Java Full Stack Developer, Python Developer, and Backend Developer opportunities.
+🚀 Experienced in building AI-powered applications, REST APIs, enterprise web applications, and data analytics platforms.
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+🎯 Open to opportunities as a **Python Developer**, **Java Full Stack Developer**, **Backend Developer**, and **Data Analyst**.
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Tech Stack
 
-### 🍽️ Food Delivery Web Application
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+</p>
+
+## ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express"/>
+</p>
+
+## 📊 Data Analytics
+
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Power BI
+- Excel
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+## 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 💬 AI Chat Platform
+
+**Python | FastAPI | React | PostgreSQL | OpenAI API**
+
+🔗 Repository: https://github.com/Barigalaviswesh/chat-platform
+
+### Features
+
+- 🤖 AI-powered conversational assistant
+- 💬 Real-time chat interface
+- 🔐 Secure authentication
+- 📝 Chat history management
+- ⚡ FastAPI REST APIs
+- 🎨 Modern React frontend
+- 🗄️ PostgreSQL database
+- 🔑 OpenAI API integration
+
+---
+
+## 🍽️ Food Delivery Web Application
 
 **Java | JSP | Servlets | JDBC | MySQL**
+
+### Features
 
 - Restaurant Management
 - Shopping Cart
 - Order Processing
 - User Authentication
+- Admin Dashboard
 - MVC Architecture
 
 ---
 
-### 📊 InsightFlow AI
+## 📊 InsightFlow AI
 
-**Python | FastAPI | React | PostgreSQL**
+**Python | FastAPI | React | PostgreSQL | Pandas | Plotly**
 
-- AI-powered Data Analytics Platform
+### Features
+
 - CSV & Excel Upload
-- Interactive Dashboard
-- AI Insights
 - Data Cleaning
-- Download Reports
+- AI-powered Data Analysis
+- Interactive Dashboards
+- Business Insights
+- Report Generation
 
 ---
 
-### 📦 Inventory & Invoice Management System
+## 🛡️ DataGuardian AI
+
+**Python | FastAPI | PostgreSQL | SQLAlchemy | React**
+
+### Features
+
+- Data Quality Monitoring
+- AI Anomaly Detection
+- Root Cause Analysis
+- Interactive Dashboard
+- JWT Authentication
+
+---
+
+## 📦 Inventory & Invoice Management System
 
 **React | Node.js | Express | MongoDB**
 
+### Features
+
 - Inventory Management
 - Invoice Generation
+- Sales Dashboard
+- Customer Management
 - JWT Authentication
-- Dashboard Analytics
 
 ---
 
-### 🌦️ Weather Forecast Website
+## 🌦️ Weather Forecast Website
 
 **HTML | CSS | JavaScript**
 
-- Live Weather API
-- Responsive Design
+### Features
+
+- Live Weather Information
 - City Search
-- Dynamic Weather Information
+- Responsive Design
+- Weather API Integration
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Barigalaviswesh&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Barigalaviswesh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Barigalaviswesh&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Barigalaviswesh&theme=algolia&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barigalaviswesh&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barigalaviswesh&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 **Email**
+<p align="left">
 
+📧 **Email:**  
 **barigalaviswesh@gmail.com**
 
-🐙 **GitHub**
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/vishu-viswesh/
 
+🐙 **GitHub:**  
 https://github.com/Barigalaviswesh
 
-💼 **LinkedIn**
-
-*Add your LinkedIn profile here*
-
-🌐 **Portfolio**
-
-*Add your Portfolio website here*
+</p>
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
-> **"Code with passion, learn continuously, and build solutions that make a difference."**
+> **"Passionate about building scalable software, leveraging AI, and transforming data into meaningful insights through continuous learning and innovation."**
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories and connect with me on LinkedIn.
+</p>
