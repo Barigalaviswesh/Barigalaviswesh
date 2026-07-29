@@ -1,75 +1,91 @@
 <h1 align="center">Hi 👋, I'm Barigala Viswesh</h1>
 
 <h3 align="center">
-Python Developer | Java Full Stack Developer | Data Analyst
+Python Developer • Java Full Stack Developer • Data Analyst
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, real-time communication systems, and data-driven solutions.
+Building scalable backend systems, real-time chat applications, and data-driven solutions.
 </p>
 
 <p align="center">
+
 <a href="https://komarev.com/ghpvc/?username=Barigalaviswesh">
-<img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </a>
 
+<a href="https://github.com/Barigalaviswesh?tab=followers">
+<img src="https://img.shields.io/github/followers/Barigalaviswesh?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+</p>
+
+<p align="center">
+
 <a href="mailto:barigalaviswesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-barigalaviswesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vishu-viswesh/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Barigala%20Viswesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Barigalaviswesh">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Barigalaviswesh-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Python Developer with experience in backend development and data analytics.
+- 💻 Python Developer passionate about backend development and scalable web applications.
 - 🎓 B.Tech Graduate in Computer Science & Engineering.
-- 🚀 Passionate about building scalable REST APIs, real-time applications, and enterprise software.
-- 💬 Developed a real-time Chat Platform using FastAPI, React, PostgreSQL, and WebSockets.
-- 📊 Interested in Data Analytics, AI, Machine Learning, and Cloud Technologies.
+- 🚀 Experienced in developing REST APIs, real-time chat applications, and enterprise software.
+- 📊 Skilled in Data Analytics using Python, SQL, Pandas, NumPy, Plotly, and Power BI.
 - 🌱 Currently learning FastAPI, Django, Spring Boot, Docker, AWS, and Machine Learning.
-- 🎯 Open to Python Developer, Java Full Stack Developer, Backend Developer, and Data Analyst opportunities.
+- 🎯 Looking for opportunities as a Python Developer, Backend Developer, Java Full Stack Developer, or Data Analyst.
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Programming Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 </p>
 
-## ⚙️ Frameworks
+### ⚙️ Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express"/>
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
-## 📊 Data Analytics
+### 📊 Data Analytics
 
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Power BI
-- Excel
+<p>
 
-## 🛠️ Tools
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+</p>
+
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
@@ -81,24 +97,28 @@ Passionate about building scalable web applications, real-time communication sys
 
 ## 💬 Chat Platform
 
-**Python | FastAPI | React | PostgreSQL | WebSockets**
+**Python • FastAPI • React • PostgreSQL • WebSockets**
+
+🔗 **Repository**
+
+https://github.com/Barigalaviswesh/chat-platform
 
 ### Features
 
 - 💬 Real-time one-to-one messaging
-- 🔐 Secure user authentication
-- 👥 User management
-- ⚡ WebSocket communication
-- 📝 Chat history
-- 📱 Responsive interface
-- 🗄️ PostgreSQL database
-- 🚀 RESTful FastAPI backend
+- 👥 User Registration & Login
+- ⚡ WebSocket Communication
+- 🟢 Online / Offline Status
+- 📝 Chat History
+- 📱 Responsive UI
+- 🔐 Secure Authentication
+- 🗄️ PostgreSQL Database
 
 ---
 
 ## 🍽️ Food Delivery Web Application
 
-**Java | JSP | Servlets | JDBC | MySQL**
+**Java • JSP • Servlets • JDBC • MySQL**
 
 ### Features
 
@@ -113,22 +133,22 @@ Passionate about building scalable web applications, real-time communication sys
 
 ## 📊 InsightFlow AI
 
-**Python | FastAPI | React | PostgreSQL | Pandas**
+**Python • FastAPI • React • PostgreSQL**
 
 ### Features
 
 - CSV & Excel Upload
 - Data Cleaning
+- Data Analysis
 - Interactive Dashboards
 - Business Insights
 - Report Generation
-- Data Visualization
 
 ---
 
 ## 🛡️ DataGuardian AI
 
-**Python | FastAPI | PostgreSQL | SQLAlchemy**
+**Python • FastAPI • PostgreSQL**
 
 ### Features
 
@@ -136,30 +156,30 @@ Passionate about building scalable web applications, real-time communication sys
 - Data Profiling
 - Analytics Dashboard
 - JWT Authentication
-- Quality Metrics
 
 ---
 
 ## 📦 Inventory & Invoice Management System
 
-**React | Node.js | Express | MongoDB**
+**React • Node.js • Express • MongoDB**
 
 ### Features
 
 - Inventory Management
 - Invoice Generation
+- Sales Dashboard
 - Customer Management
-- Dashboard Analytics
-- JWT Authentication
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -167,7 +187,9 @@ Passionate about building scalable web applications, real-time communication sys
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Barigalaviswesh&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -175,7 +197,9 @@ Passionate about building scalable web applications, real-time communication sys
 # 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Barigalaviswesh&theme=tokyonight&no-frame=true&margin-w=10"/>
+
 </p>
 
 ---
@@ -183,37 +207,49 @@ Passionate about building scalable web applications, real-time communication sys
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barigalaviswesh&theme=tokyo-night"/>
+
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email**
+<p align="center">
 
-[barigalaviswesh@gmail.com](mailto:barigalaviswesh@gmail.com)
+<a href="mailto:barigalaviswesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-barigalaviswesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://www.linkedin.com/in/vishu-viswesh/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/vishu-viswesh/
+<a href="https://github.com/Barigalaviswesh">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🐙 **GitHub**
-
-https://github.com/Barigalaviswesh
+</p>
 
 ---
 
 # 💡 Quote
 
+<p align="center">
+
 > **"Building reliable software through continuous learning, clean code, and solving real-world problems."**
+
+</p>
 
 ---
 
 <h3 align="center">
-⭐ Thank you for visiting my GitHub profile! ⭐
+
+⭐ Thank you for visiting my profile! ⭐
+
 </h3>
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and connecting with me on LinkedIn.
+Feel free to explore my repositories and connect with me.
 </p>
