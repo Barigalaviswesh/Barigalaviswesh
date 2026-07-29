@@ -1,55 +1,66 @@
 <h1 align="center">Hi 👋, I'm Barigala Viswesh</h1>
-<h3 align="center">Python Developer | Java Full Stack Developer | Data Analyst</h3>
+
+<h3 align="center">
+Python Developer | Java Full Stack Developer | Data Analyst
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+Passionate about building scalable web applications, real-time systems, and data-driven solutions.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Barigalaviswesh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vishu-viswesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:barigalaviswesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://komarev.com/ghpvc/?username=Barigalaviswesh">
+<img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="mailto:barigalaviswesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishu-viswesh/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Barigalaviswesh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-💻 Passionate **Python Developer** with experience in backend development, AI-powered applications, and data analytics.
-
-🎓 B.Tech Graduate in Computer Science & Engineering.
-
-🌱 Currently learning **FastAPI, Django, Spring Boot, Docker, AWS, Machine Learning, and Cloud Technologies**.
-
-📊 Skilled in **Python, SQL, Pandas, NumPy, Matplotlib, Plotly, Power BI, PostgreSQL, and MySQL**.
-
-🚀 Experienced in building AI-powered applications, REST APIs, enterprise web applications, and data analytics platforms.
-
-🎯 Open to opportunities as a **Python Developer**, **Java Full Stack Developer**, **Backend Developer**, and **Data Analyst**.
+- 💻 Python Developer passionate about backend development and scalable web applications.
+- 🎓 B.Tech Graduate in Computer Science & Engineering.
+- 🚀 Experienced in developing REST APIs, real-time chat applications, and full-stack web applications.
+- 📊 Interested in Data Analytics, AI, Machine Learning, and Cloud Technologies.
+- 🌱 Currently learning FastAPI, Django, Spring Boot, Docker, AWS, and Machine Learning.
+- 💼 Open to Python Developer, Java Full Stack Developer, Backend Developer, and Data Analyst opportunities.
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-## ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express" />
 </p>
 
-## 📊 Data Analytics
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### 📊 Data Analytics
 
 - Pandas
 - NumPy
@@ -58,38 +69,30 @@
 - Power BI
 - Excel
 
-## 🗄️ Databases
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
-
-## 🛠️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-## 💬 AI Chat Platform
+## 💬 Chat Platform
 
-**Python | FastAPI | React | PostgreSQL | OpenAI API**
-
-🔗 Repository: https://github.com/Barigalaviswesh/chat-platform
+**Python | FastAPI | React | PostgreSQL | WebSocket**
 
 ### Features
 
-- 🤖 AI-powered conversational assistant
-- 💬 Real-time chat interface
-- 🔐 Secure authentication
-- 📝 Chat history management
-- ⚡ FastAPI REST APIs
-- 🎨 Modern React frontend
-- 🗄️ PostgreSQL database
-- 🔑 OpenAI API integration
+- 💬 Real-time messaging
+- 👥 User Authentication
+- ⚡ WebSocket Communication
+- 📝 Chat History
+- 📱 Responsive UI
+- 🔐 Secure Backend APIs
+- 🗄️ PostgreSQL Database
+- 🚀 FastAPI Backend
 
 ---
 
@@ -101,8 +104,8 @@
 
 - Restaurant Management
 - Shopping Cart
-- Order Processing
 - User Authentication
+- Order Management
 - Admin Dashboard
 - MVC Architecture
 
@@ -110,13 +113,12 @@
 
 ## 📊 InsightFlow AI
 
-**Python | FastAPI | React | PostgreSQL | Pandas | Plotly**
+**Python | FastAPI | React | PostgreSQL**
 
 ### Features
 
 - CSV & Excel Upload
 - Data Cleaning
-- AI-powered Data Analysis
 - Interactive Dashboards
 - Business Insights
 - Report Generation
@@ -125,14 +127,13 @@
 
 ## 🛡️ DataGuardian AI
 
-**Python | FastAPI | PostgreSQL | SQLAlchemy | React**
+**Python | FastAPI | PostgreSQL**
 
 ### Features
 
+- Data Profiling
 - Data Quality Monitoring
-- AI Anomaly Detection
-- Root Cause Analysis
-- Interactive Dashboard
+- Analytics Dashboard
 - JWT Authentication
 
 ---
@@ -143,11 +144,10 @@
 
 ### Features
 
-- Inventory Management
+- Inventory Tracking
 - Invoice Generation
 - Sales Dashboard
 - Customer Management
-- JWT Authentication
 
 ---
 
@@ -157,18 +157,21 @@
 
 ### Features
 
-- Live Weather Information
+- Live Weather
 - City Search
 - Responsive Design
-- Weather API Integration
+- Weather API
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=radical"/>
+
 </p>
 
 ---
@@ -176,7 +179,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Barigalaviswesh&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Barigalaviswesh&theme=radical"/>
+
 </p>
 
 ---
@@ -184,7 +189,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Barigalaviswesh&theme=algolia&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Barigalaviswesh&theme=radical&row=1&column=6"/>
+
 </p>
 
 ---
@@ -192,36 +199,37 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barigalaviswesh&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barigalaviswesh&theme=react-dark"/>
+
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+📧 **Email**
 
-📧 **Email:**  
-**barigalaviswesh@gmail.com**
+[barigalaviswesh@gmail.com](mailto:barigalaviswesh@gmail.com)
 
-💼 **LinkedIn:**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/vishu-viswesh/
 
-🐙 **GitHub:**  
-https://github.com/Barigalaviswesh
+🐙 **GitHub**
 
-</p>
+https://github.com/Barigalaviswesh
 
 ---
 
 # 💡 Quote
 
-> **"Passionate about building scalable software, leveraging AI, and transforming data into meaningful insights through continuous learning and innovation."**
+> "Code with passion. Learn continuously. Build solutions that create real-world impact."
 
 ---
 
-<h3 align="center">Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
 
-<p align="center">
-If you like my work, don't forget to ⭐ my repositories and connect with me on LinkedIn.
-</p>
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
