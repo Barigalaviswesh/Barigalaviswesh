@@ -5,62 +5,62 @@ Python Developer | Java Full Stack Developer | Data Analyst
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, real-time systems, and data-driven solutions.
+Passionate about building scalable web applications, real-time communication systems, and data-driven solutions.
 </p>
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=Barigalaviswesh">
-<img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Barigalaviswesh&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
 <a href="mailto:barigalaviswesh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vishu-viswesh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Barigalaviswesh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Python Developer passionate about backend development and scalable web applications.
+- 💻 Python Developer with experience in backend development and data analytics.
 - 🎓 B.Tech Graduate in Computer Science & Engineering.
-- 🚀 Experienced in developing REST APIs, real-time chat applications, and full-stack web applications.
+- 🚀 Passionate about building scalable REST APIs, real-time applications, and enterprise software.
+- 💬 Developed a real-time Chat Platform using FastAPI, React, PostgreSQL, and WebSockets.
 - 📊 Interested in Data Analytics, AI, Machine Learning, and Cloud Technologies.
 - 🌱 Currently learning FastAPI, Django, Spring Boot, Docker, AWS, and Machine Learning.
-- 💼 Open to Python Developer, Java Full Stack Developer, Backend Developer, and Data Analyst opportunities.
+- 🎯 Open to Python Developer, Java Full Stack Developer, Backend Developer, and Data Analyst opportunities.
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,express"/>
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 
 - Pandas
 - NumPy
@@ -69,10 +69,10 @@ Passionate about building scalable web applications, real-time systems, and data
 - Power BI
 - Excel
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
 </p>
 
 ---
@@ -81,18 +81,18 @@ Passionate about building scalable web applications, real-time systems, and data
 
 ## 💬 Chat Platform
 
-**Python | FastAPI | React | PostgreSQL | WebSocket**
+**Python | FastAPI | React | PostgreSQL | WebSockets**
 
 ### Features
 
-- 💬 Real-time messaging
-- 👥 User Authentication
-- ⚡ WebSocket Communication
-- 📝 Chat History
-- 📱 Responsive UI
-- 🔐 Secure Backend APIs
-- 🗄️ PostgreSQL Database
-- 🚀 FastAPI Backend
+- 💬 Real-time one-to-one messaging
+- 🔐 Secure user authentication
+- 👥 User management
+- ⚡ WebSocket communication
+- 📝 Chat history
+- 📱 Responsive interface
+- 🗄️ PostgreSQL database
+- 🚀 RESTful FastAPI backend
 
 ---
 
@@ -104,8 +104,8 @@ Passionate about building scalable web applications, real-time systems, and data
 
 - Restaurant Management
 - Shopping Cart
+- Order Processing
 - User Authentication
-- Order Management
 - Admin Dashboard
 - MVC Architecture
 
@@ -113,7 +113,7 @@ Passionate about building scalable web applications, real-time systems, and data
 
 ## 📊 InsightFlow AI
 
-**Python | FastAPI | React | PostgreSQL**
+**Python | FastAPI | React | PostgreSQL | Pandas**
 
 ### Features
 
@@ -122,19 +122,21 @@ Passionate about building scalable web applications, real-time systems, and data
 - Interactive Dashboards
 - Business Insights
 - Report Generation
+- Data Visualization
 
 ---
 
 ## 🛡️ DataGuardian AI
 
-**Python | FastAPI | PostgreSQL**
+**Python | FastAPI | PostgreSQL | SQLAlchemy**
 
 ### Features
 
-- Data Profiling
 - Data Quality Monitoring
+- Data Profiling
 - Analytics Dashboard
 - JWT Authentication
+- Quality Metrics
 
 ---
 
@@ -144,34 +146,20 @@ Passionate about building scalable web applications, real-time systems, and data
 
 ### Features
 
-- Inventory Tracking
+- Inventory Management
 - Invoice Generation
-- Sales Dashboard
 - Customer Management
-
----
-
-## 🌦️ Weather Forecast Website
-
-**HTML | CSS | JavaScript**
-
-### Features
-
-- Live Weather
-- City Search
-- Responsive Design
-- Weather API
+- Dashboard Analytics
+- JWT Authentication
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Barigalaviswesh&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=radical"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barigalaviswesh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -179,9 +167,7 @@ Passionate about building scalable web applications, real-time systems, and data
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Barigalaviswesh&theme=radical"/>
-
+<img src="https://streak-stats.demolab.com?user=Barigalaviswesh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -189,9 +175,7 @@ Passionate about building scalable web applications, real-time systems, and data
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Barigalaviswesh&theme=radical&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Barigalaviswesh&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -199,9 +183,7 @@ Passionate about building scalable web applications, real-time systems, and data
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barigalaviswesh&theme=react-dark"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barigalaviswesh&theme=tokyo-night"/>
 </p>
 
 ---
@@ -224,12 +206,14 @@ https://github.com/Barigalaviswesh
 
 # 💡 Quote
 
-> "Code with passion. Learn continuously. Build solutions that create real-world impact."
+> **"Building reliable software through continuous learning, clean code, and solving real-world problems."**
 
 ---
 
 <h3 align="center">
-
-⭐ Thanks for visiting my GitHub Profile ⭐
-
+⭐ Thank you for visiting my GitHub profile! ⭐
 </h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories and connecting with me on LinkedIn.
+</p>
